@@ -1,6 +1,10 @@
 #### bigData_group6
 #### Source of Dataset: https://www.kaggle.com/datasets/mexwell/california-google-local-data
 #### Tools: Python, PySpark, PyMongo, Pandas, Matplotlib
+#### Member contributions: 
+- Ms Phuong: Prepare the dataset, the document file and spark
+- Xin Feng: Spark code
+- Hiep Huynh: Mongodb part.
 #### summary:
   The dataset includes two json files. The first file, name “meta-California.json” contains 16 columns, and 515,961 rows. The second file, name “review-California_10.json” contains 9 columns and 44,476,890 rows.
 This is a group work for Big Data Project
